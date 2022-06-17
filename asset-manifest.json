@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/milan-tv/static/css/main.4d26cd7a.css",
+    "main.js": "/milan-tv/static/js/main.7f87791f.js",
+    "static/media/googleplay.png": "/milan-tv/static/media/googleplay.2e9424c1b40923273a73.png",
+    "static/media/appstore.png": "/milan-tv/static/media/appstore.e27880fb00b19681f97a.png",
+    "static/media/instagram.png": "/milan-tv/static/media/instagram.b4c2df38c5913f6b816b.png",
+    "index.html": "/milan-tv/index.html",
+    "main.4d26cd7a.css.map": "/milan-tv/static/css/main.4d26cd7a.css.map",
+    "main.7f87791f.js.map": "/milan-tv/static/js/main.7f87791f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d26cd7a.css",
+    "static/js/main.7f87791f.js"
+  ]
+}
